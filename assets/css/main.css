@@ -1298,6 +1298,15 @@ input, select, textarea {
 			border-radius: 100%;
 		}
 
+		.logo #me {
+			width: 5.4rem;
+			height: 5.4rem;
+			overflow: hidden;
+			object-fit: cover;
+			object-position: 25% 0%;
+			border-radius: 50%;
+		}
+
 			#header .logo .icon:before {
 				font-size: 2rem;
 			}
