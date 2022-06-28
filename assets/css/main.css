@@ -1311,6 +1311,31 @@ input, select, textarea {
 				font-size: 2rem;
 			}
 
+		#technologies {
+			width: 66%;
+			margin-left: auto;
+			margin-right: auto;
+			list-style: none;
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: center;
+		}
+
+		#technologies li {
+			font-size: 3rem;
+			flex-shrink: 0;
+		}
+
+		#technologies img {
+			height: 3rem;
+			width: 3rem;
+		}
+
+		#technologies #andmore {
+			height: 3rem;
+			font-size: 1em;
+		}
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
