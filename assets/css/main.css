@@ -1336,6 +1336,12 @@ input, select, textarea {
 			font-size: 1em;
 		}
 
+		.call-to-action {
+			display: flex;
+			flex-flow: row wrap;
+			justify-content: space-around;
+		}
+
 		#header .content {
 			border-style: solid;
 			border-color: #ffffff;
