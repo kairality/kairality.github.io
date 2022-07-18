@@ -1699,3 +1699,10 @@ input, select, textarea {
 		body.is-preload #footer {
 			opacity: 0;
 		}
+
+
+
+.proj-tech-list {
+	font-style: italic;
+	font-size: smaller;
+}
