@@ -29,6 +29,7 @@
 			window.setTimeout(function() {
 				$body.removeClass('is-preload');
 			}, 100);
+
 		});
 
 	// Fix: Flexbox min-height bug on IE.
@@ -64,6 +65,7 @@
 				$nav_li.eq( ($nav_li.length / 2) ).addClass('is-middle');
 
 			}
+
 
 	// Main.
 		var	delay = 325,
